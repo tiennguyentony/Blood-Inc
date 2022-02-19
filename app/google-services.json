@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "605511165318",
+    "project_id": "bloodinc-f36d5",
+    "storage_bucket": "bloodinc-f36d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605511165318:android:78fbd2eb5227d577c6b807",
+        "android_client_info": {
+          "package_name": "com.example.bda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "605511165318-46m977b21q6a0uddh54vesohj0lftm4p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVKvwN8c6m6lIaOXQJClTnDAKTE8RitJo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "605511165318-46m977b21q6a0uddh54vesohj0lftm4p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
